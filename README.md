@@ -12,3 +12,5 @@ This code will show
 1.spring-mass-damper animation graph  
 2.x(t),x_dot(t) plot  
 3.energy plot (kinetic, potential, damping losing, etc.)  
+
+Authors : 謝孟儒, Shannon112, 洪瑋琪
